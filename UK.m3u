@@ -1,3 +1,4 @@
+#EXTM3U tvg-url="https://www.open-epg.com/generate/Cw7Gp4FC4d.xml.gz"
 #EXTINF:-1 tvg-id="4seven.uk" tvg-name="GB : 4SEVEN" tvg-logo="http://icons.tw:8080/images/9d8248813d68c041253a2079dc1bca2f.png" group-title="UK TV",GB : 4SEVEN
 http://wickediptv.xyz:80/live/1c0770c0c79b697e/0000/53828.m3u
 #EXTINF:-1 tvg-id="5Action.uk" tvg-name="GB : 5 ACTION" tvg-logo="http://icons.tw:8080/images/0ea4397b45b3f53470508b0e91efa72b.png" group-title="UK TV",GB : 5 ACTION
