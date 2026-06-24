@@ -4,7 +4,7 @@ https://bit.ly/4avpTle
 
 Short EPG URL
 
-http://acidjesus.tk/guide.xml
+http://acidjesus.uk/guide.xml
 
 EPG ALSO SHOULD AUTOMATICALLY BE
 AVAILABLE IN SOME IPTV PLAYERS...
