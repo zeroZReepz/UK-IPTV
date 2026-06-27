@@ -88,7 +88,7 @@ http://wickediptv.xyz:80/live/1c0770c0c79b697e/0000/53845.m3u
 #EXTINF:-1 tvg-id="BBCTwoNorthernIreland.uk" tvg-name="GB : BBC TWO NORTHERN IRELAND" tvg-logo="http://icons.tw:8080/images/7daf85c50c5dacd743de054bf110fef2.png" group-title="UK TV",GB : BBC TWO NORTHERN IRELAND
 http://wickediptv.xyz:80/live/1c0770c0c79b697e/0000/204641.m3u
 #EXTINF:-1 tvg-id="Blaze.uk" tvg-name="GB : BLAZE" tvg-logo="http://icons.tw:8080/images/00f58aea362526b68d485a47e39ad76d.png" group-title="UK TV",GB : BLAZE
-http://wickediptv.xyz:80/live/1c0770c0c79b697e/0000/53846.m3u
+https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
 #EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="GB : BOOMERANG" tvg-logo="http://icons.tw:8080/images/b5886b772e57100b7f40f8b8fc5bfaac.png" group-title="UK TV",GB : BOOMERANG
 http://wickediptv.xyz:80/live/1c0770c0c79b697e/0000/53847.m3u
 #EXTINF:-1 tvg-id="CartoonNetwork.uk" tvg-name="GB : CARTOON NETWORK" tvg-logo="http://icons.tw:8080/images/87dfc97a7654b4b7ad9f04767361eca9.png" group-title="UK TV",GB : CARTOON NETWORK
